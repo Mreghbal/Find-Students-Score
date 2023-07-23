@@ -7,7 +7,6 @@ Welcome to the Student Score Calculator repository! This Python program allows y
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -58,10 +57,6 @@ Here's a breakdown of the available options:
 ## Contributing
 
 Contributions to the Student Score Calculator project are welcome! If you have any ideas, suggestions, bug reports, please open an issue on the GitHub repository. Feel free to fork the repository and submit pull requests with your improvements as well.
-
-## License
-
-This project licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
 
 ## Contact
 
