@@ -22,7 +22,7 @@ To use the Student Score Calculator, follow these steps:
 1. Make sure you have Python 3.9 or above installed on your system.
 2. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/Find-Students-Score.git
+   git clone https://github.com/Mreghbal/Find-Students-Score.git
    ```
 3. Navigate to the project directory:
    ```
